@@ -1,0 +1,9 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["Jaganathan B <jaganathan.eswaran@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+inputbot = "0.4.0"
+rand = "0.6.5"
